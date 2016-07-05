@@ -3,6 +3,19 @@
 one .editorconfig (http://editorconfig.org/) with standard settings for as many languages as possible
 
 
+## Installation
+
+Just copy this file to your project folder. For convenience:
+
+- curl:
+
+    curl -O https://raw.githubusercontent.com/jokeyrhyme/standard-editorconfig/master/.editorconfig
+
+- wget:
+
+    wget https://raw.githubusercontent.com/jokeyrhyme/standard-editorconfig/master/.editorconfig
+
+
 ## Contribute!
 
 I would be delighted to accept PRs for additional languages. Let's complete the whole set!
