@@ -3,12 +3,12 @@
 one .editorconfig (http://editorconfig.org/) with standard settings for as many languages as possible
 
 
-# Contribute!
+## Contribute!
 
 I would be delighted to accept PRs for additional languages. Let's complete the whole set!
 
 
-# Resources
+## Resources
 
 - [EditorConfig](http://EditorConfig.org)
 
