@@ -1,5 +1,7 @@
 # EditorConfig is awesome: http://EditorConfig.org
 
+# https://github.com/jokeyrhyme/standard-editorconfig
+
 # top-most EditorConfig file
 root = true
 
