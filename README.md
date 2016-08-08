@@ -41,4 +41,6 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 
 - [Rust](https://github.com/rust-lang/rust/blob/master/src/doc/style/style/whitespace.md)
 
+- [TypeScript](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
+
 - [YAML](http://yaml.org/spec/1.2/2009-07-21/spec.html#id2576668)
