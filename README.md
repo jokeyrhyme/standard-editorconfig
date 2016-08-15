@@ -29,8 +29,6 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 
 - [Go](https://golang.org/cmd/gofmt/)
 
-- [Java](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation)
-
 - [JavaScript](https://github.com/feross/standard)
 
 - [PHP](http://www.php-fig.org/psr/psr-2/)
@@ -44,3 +42,9 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 - [TypeScript](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
 
 - [YAML](http://yaml.org/spec/1.2/2009-07-21/spec.html#id2576668)
+
+- in cases where I haven't yet found an official first-party styleguide, I defer to Google:
+
+    - [Google's styleguide for HTML and CSS](https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules)
+
+    - [Google's styleguide for Java](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation)

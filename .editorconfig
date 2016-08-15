@@ -20,6 +20,13 @@ indent_size = 2
 indent_style = space
 trim_trailing_whitespace = true
 
+# CSS
+# https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules
+[*.css]
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+
 # GNU make
 # https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html
 [Makefile]
@@ -30,13 +37,20 @@ indent_style = tab
 [*.go]
 indent_style = tab
 
+# HTML
+# https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules
+[*.{htm,html}]
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+
 # Java
 # https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation
 [*.java]
 indent_size = 2
 indent_style = space
 
-# JavaScript
+# JavaScript, JSON, JSX
 # https://github.com/feross/standard
 [*.{js,json,jsx}]
 indent_size = 2
