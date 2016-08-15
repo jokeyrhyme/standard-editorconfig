@@ -22,6 +22,7 @@ trim_trailing_whitespace = true
 
 # CSS
 # https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules
+# http://cssguidelin.es/#syntax-and-formatting
 [*.css]
 indent_size = 2
 indent_style = space
@@ -81,6 +82,12 @@ indent_size = 4
 indent_style = space
 insert_final_newline = false
 trim_trailing_whitespace = true
+
+# SASS
+# https://sass-guidelin.es/#syntax--formatting
+[*.{sass,scss}]
+indent_size = 2
+indent_style = space
 
 # TypeScript
 # https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#style

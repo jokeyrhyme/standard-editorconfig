@@ -23,6 +23,8 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 
 ## Resources
 
+- [CSS](http://cssguidelin.es/#syntax-and-formatting)
+
 - [EditorConfig](http://EditorConfig.org)
 
 - [GNU make](https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html)
@@ -39,12 +41,14 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 
 - [Rust](https://github.com/rust-lang/rust/blob/master/src/doc/style/style/whitespace.md)
 
+- [SASS](https://sass-guidelin.es/#syntax--formatting)
+
 - [TypeScript](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
 
 - [YAML](http://yaml.org/spec/1.2/2009-07-21/spec.html#id2576668)
 
-- in cases where I haven't yet found an official first-party styleguide, I defer to Google:
+- I defer to Google's styleguides in a few cases:
 
-    - [Google's styleguide for HTML and CSS](https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules)
+    - [Google's HTML and CSS guide](https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules)
 
-    - [Google's styleguide for Java](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation)
+    - [Google's Java guide](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation)
