@@ -33,6 +33,8 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 
 - [JavaScript](https://github.com/feross/standard)
 
+- [LESS](https://github.com/less/less-docs#less-standards)
+
 - [PHP](http://www.php-fig.org/psr/psr-2/)
 
 - [Python](https://www.python.org/dev/peps/pep-0008/#code-lay-out)

@@ -57,6 +57,12 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
+# LESS
+# https://github.com/less/less-docs#less-standards
+[*.less]
+indent_size = 2
+indent_style = space
+
 # PHP
 # http://www.php-fig.org/psr/psr-2/
 [*.php]
