@@ -54,3 +54,6 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
     - [Google's HTML and CSS guide](https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules)
 
     - [Google's Java guide](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation)
+
+    - [Google's Shell guide](https://google.github.io/styleguide/shell.xml#Indentation)
+

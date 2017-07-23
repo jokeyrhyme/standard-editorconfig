@@ -95,6 +95,12 @@ trim_trailing_whitespace = true
 indent_size = 2
 indent_style = space
 
+# Shell
+# https://google.github.io/styleguide/shell.xml#Indentation
+[*.{bash,sh,zsh}]
+indent_size = 2
+indent_style = space
+
 # TypeScript
 # https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#style
 # https://github.com/Microsoft/TypeScript/blob/master/.editorconfig
