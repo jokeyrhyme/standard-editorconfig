@@ -57,6 +57,11 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
+# Kotlin
+# https://android.github.io/kotlin-guides/style.html#indentation
+indent_size = 4
+indent_style = space
+
 # LESS
 # https://github.com/less/less-docs#less-standards
 [*.less]
