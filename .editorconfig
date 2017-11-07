@@ -51,9 +51,9 @@ trim_trailing_whitespace = true
 indent_size = 2
 indent_style = space
 
-# JavaScript, JSON, JSX
+# JavaScript, JSON, JSX, JavaScript Modules
 # https://github.com/feross/standard
-[*.{js,json,jsx}]
+[*.{js,json,jsx,mjs}]
 indent_size = 2
 indent_style = space
 
