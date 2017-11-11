@@ -106,6 +106,12 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
+# TOML
+# https://github.com/toml-lang/toml/tree/master/examples
+[*.toml]
+indent_size = 2
+indent_style = space
+
 # TypeScript
 # https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#style
 # https://github.com/Microsoft/TypeScript/blob/master/.editorconfig
