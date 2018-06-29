@@ -20,6 +20,11 @@ indent_size = 2
 indent_style = space
 trim_trailing_whitespace = true
 
+# Bazel: https://bazel.build/
+# https://github.com/bazelbuild/buildtools/blob/master/BUILD.bazel
+[*.{bazel,bzl}]
+indent_size = 4
+
 # CSS
 # https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules
 # http://cssguidelin.es/#syntax-and-formatting
