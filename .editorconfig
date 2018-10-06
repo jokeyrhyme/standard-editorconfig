@@ -49,9 +49,10 @@ trim_trailing_whitespace = true
 indent_size = 2
 indent_style = space
 
-# JavaScript, JSON, JSX, JavaScript Modules
+# JavaScript, JSON, JSX, JavaScript Modules, TypeScript
 # https://github.com/feross/standard
-[*.{js,json,jsx,mjs}]
+# https://prettier.io
+[*.{js,json,jsx,mjs,ts,tsx}]
 indent_size = 2
 indent_style = space
 
@@ -109,13 +110,6 @@ indent_style = space
 # https://github.com/toml-lang/toml/tree/master/examples
 [*.toml]
 indent_size = 2
-indent_style = space
-
-# TypeScript
-# https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#style
-# https://github.com/Microsoft/TypeScript/blob/master/.editorconfig
-[*.ts]
-indent_size = 4
 indent_style = space
 
 # YAML
