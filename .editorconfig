@@ -33,7 +33,7 @@ indent_style = tab
 
 # Go
 # https://golang.org/cmd/gofmt/
-[*.go]
+[{go.mod,*.go}]
 indent_style = tab
 
 # GraphQL
