@@ -113,6 +113,12 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
+# Svelte
+# https://github.com/sveltejs/svelte/blob/master/.editorconfig
+[*.svelte]
+indent_size = 2
+indent_style = tab
+
 # TOML
 # https://github.com/toml-lang/toml/tree/master/examples
 [*.toml]
