@@ -75,6 +75,12 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
+# Lua
+# http://lua-users.org/wiki/LuaStyleGuide
+[*.less]
+indent_size = 2
+indent_style = space
+
 # PHP
 # http://www.php-fig.org/psr/psr-2/
 [*.php]
