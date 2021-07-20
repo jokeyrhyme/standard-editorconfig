@@ -71,7 +71,7 @@ indent_style = space
 
 # LESS
 # https://github.com/less/less-docs#less-standards
-[*.less]
+[*.lua]
 indent_size = 2
 indent_style = space
 
