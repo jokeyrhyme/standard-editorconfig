@@ -71,13 +71,13 @@ indent_style = space
 
 # LESS
 # https://github.com/less/less-docs#less-standards
-[*.lua]
+[*.less]
 indent_size = 2
 indent_style = space
 
 # Lua
 # http://lua-users.org/wiki/LuaStyleGuide
-[*.less]
+[*.{lua,luacheckrc}]
 indent_size = 2
 indent_style = space
 
