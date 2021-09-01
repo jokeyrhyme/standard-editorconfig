@@ -131,6 +131,13 @@ indent_style = tab
 indent_size = 2
 indent_style = space
 
+# Vue.js
+# https://eslint.vuejs.org/rules/html-indent.html
+# https://eslint.vuejs.org/rules/script-indent.html
+[*.vue]
+indent_size = 2
+indent_style = space
+
 # YAML
 # http://yaml.org/spec/1.2/2009-07-21/spec.html#id2576668
 [*.{yaml,yml}]
