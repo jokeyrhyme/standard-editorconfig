@@ -9,11 +9,11 @@ Just copy this file to your project folder. For convenience:
 
 - curl:
 
-    `curl -O https://raw.githubusercontent.com/jokeyrhyme/standard-editorconfig/master/.editorconfig`
+    `curl -O https://raw.githubusercontent.com/jokeyrhyme/standard-editorconfig/main/.editorconfig`
 
 - wget:
 
-    `wget https://raw.githubusercontent.com/jokeyrhyme/standard-editorconfig/master/.editorconfig`
+    `wget https://raw.githubusercontent.com/jokeyrhyme/standard-editorconfig/main/.editorconfig`
 
 
 ## Contribute!
