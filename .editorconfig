@@ -12,6 +12,15 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+# BATS: https://github.com/bats-core/bats-core
+# https://github.com/bats-core/bats-core/master/.editorconfig
+[*.bats]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+
 # Bazel: https://bazel.build/
 # https://github.com/bazelbuild/buildtools/blob/master/BUILD.bazel
 [*.{bazel,bzl}]
