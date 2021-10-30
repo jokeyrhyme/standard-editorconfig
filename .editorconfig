@@ -74,7 +74,7 @@ indent_style = space
 
 # Just
 # https://github.com/casey/just/master/justfile
-[justfile]
+[{justfile,Justfile}]
 insert_final_newline = true
 indent_style = space
 indent_size = 2
