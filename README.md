@@ -1,11 +1,11 @@
 # standard-editorconfig
 
-one .editorconfig (http://editorconfig.org/) with standard settings for as many languages as possible
+one .editorconfig (http://editorconfig.org/) with standard settings for every language/format
 
 
 ## Installation
 
-Just copy this file to your project folder. For convenience:
+Copy this file to your project folder. For convenience:
 
 - curl:
 
@@ -18,7 +18,7 @@ Just copy this file to your project folder. For convenience:
 
 ## Contribute!
 
-I would be delighted to accept PRs for additional languages. Let's complete the whole set!
+Please raise PRs for more languages/formats. Let's complete the whole set!
 
 
 ## Resources
@@ -49,7 +49,7 @@ I would be delighted to accept PRs for additional languages. Let's complete the 
 
 - [YAML](http://yaml.org/spec/1.2/2009-07-21/spec.html#id2576668)
 
-- I defer to Google's styleguides in a few cases:
+- I defer to Google's styleguides in some cases:
 
     - [Google's HTML and CSS guide](https://google.github.io/styleguide/htmlcssguide.xml#General_Formatting_Rules)
 
