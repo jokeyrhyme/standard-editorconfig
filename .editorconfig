@@ -103,6 +103,14 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
+# Nushell ( https://www.nushell.sh/ )
+# copying Rust for now, see: https://github.com/nushell/nushell/issues/3938
+[*.nu]
+indent_size = 4
+indent_style = space
+insert_final_newline = false
+trim_trailing_whitespace = true
+
 # PHP
 # http://www.php-fig.org/psr/psr-2/
 [*.php]
