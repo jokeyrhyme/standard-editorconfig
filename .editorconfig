@@ -86,7 +86,7 @@ indent_style = space
 indent_size = 2
 
 # Kotlin
-# https://android.github.io/kotlin-guides/style.html#indentation
+# https://kotlinlang.org/docs/coding-conventions.html#indentation
 [*.{kt,kts}]
 indent_size = 4
 indent_style = space
